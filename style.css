@@ -3,6 +3,7 @@ h1 {
     color: white;
 }
 h2 {
+    margin-left: 20px;
     font-size:80px;
     color: white;
 }
@@ -20,6 +21,8 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 div#border{
+    margin-left: 40px;
+    margin-right: 40px;
     box-shadow: rgba(0,0,0,.4) 0 3px 8px;
   padding: 10px 10px 10px 10px;
   border: 1px solid rgba(140,140,140,0.8);
@@ -28,6 +31,8 @@ div#border{
 p{
     color: white;
     font-size:20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 p#bullet{
     margin-left: 40px;
